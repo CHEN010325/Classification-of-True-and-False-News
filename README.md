@@ -42,17 +42,19 @@ To ensure the reliability of this result, we:
 While the results are promising, further evaluation on external datasets is recommended to validate generalization performance.
 
 ---
+## 🛠️ GloVe download address
+https://nlp.stanford.edu/data/glove.6B.zip
 
 ## 🛠️ Download the specified repository to replicate the results
 
-numpy==1.23.3
-pandas==2.2.3
-tensorflow==2.10.0
-scikit-learn==1.6.1
-nltk==3.9.1
-seaborn==0.13.2
-matplotlib==3.9.4
-wordcloud==1.9.4
+- numpy==1.23.3
+- pandas==2.2.3
+- tensorflow==2.10.0
+- scikit-learn==1.6.1
+- nltk==3.9.1
+- seaborn==0.13.2
+- matplotlib==3.9.4
+- wordcloud==1.9.4
 
 ---
 
