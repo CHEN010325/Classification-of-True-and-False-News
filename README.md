@@ -43,14 +43,16 @@ While the results are promising, further evaluation on external datasets is reco
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Download the specified repository to replicate the results
 
-- Python  
-- PyTorch / TensorFlow (depending on your implementation)  
-- NumPy, pandas  
-- Scikit-learn  
-- Natural Language Toolkit (NLTK) or spaCy  
-- Jupyter Notebook
+numpy==1.23.3
+pandas==2.2.3
+tensorflow==2.10.0
+scikit-learn==1.6.1
+nltk==3.9.1
+seaborn==0.13.2
+matplotlib==3.9.4
+wordcloud==1.9.4
 
 ---
 
@@ -58,7 +60,7 @@ While the results are promising, further evaluation on external datasets is reco
 
 run to real-vs-fake-news-100-accuracy.ipynb
 
-## 🚀Result
+## Result
 
 Train Accuracy : 99.86 %
 Test Accuracy  : 99.88 %
