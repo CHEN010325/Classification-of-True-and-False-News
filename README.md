@@ -26,7 +26,7 @@ Each file contains the following columns:
 - **Subject**: The topic category of the article  
 - **Date**: The publication date  
 
-🔗 You can access the dataset here: [insert link]
+🔗 You can access the dataset here: [[insert link]](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 ---
 
