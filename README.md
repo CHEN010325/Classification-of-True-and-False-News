@@ -56,7 +56,10 @@ While the results are promising, further evaluation on external datasets is reco
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone [your-repo-link]
-   cd fake-news-classifier
+run to real-vs-fake-news-100-accuracy.ipynb
+
+## 🚀Result
+
+Train Accuracy : 99.86 %
+Test Accuracy  : 99.88 %
+![image](https://github.com/user-attachments/assets/1748a3d8-f88e-4a2b-a5e0-c40ec06fd296)
